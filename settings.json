@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "cosmopolitianpvt1.aternos.me:32009",
+    "port": 32009,
     "version": "",
     "try-creative": false
   },
