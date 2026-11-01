@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cosmopolitianpvt1.aternos.me:32009",
+    "ip": "cosmopolitianpvt1.aternos.me",
     "port":32009 ,
     "version": "",
     "try-creative": false
